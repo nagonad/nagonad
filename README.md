@@ -1,7 +1,4 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo17014
-Fork on GitHub4867
+
 <h1 align="center">Hi 👋, I'm Mali</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
