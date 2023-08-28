@@ -2,7 +2,12 @@
 <h1 align="center">Hi 👋, I'm Mali</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nagonad&label=Profile%20views&color=0e75b6&style=flat" alt="nagonad" /> </p>
+<div align="center">
+ <b style = {font-weight: 600}>Visitors Count</b>
+
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{nagonad}/count.svg" /></p> 
+<br>
+</div>
 
 - 🌱 I’m currently learning **C# and ASP.NET**
 
