@@ -9,7 +9,7 @@
 <br>
 </div>
 
-- 🌱 I’m currently learning **Angular, C# and ASP.NET**
+- 🌱 I’m currently learning **Angular, C# and ASP.NET Core**
 
 - 💬 Ask me about **React, PERN, MERN**
 
