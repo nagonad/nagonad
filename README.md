@@ -9,10 +9,6 @@
 <br>
 </div>
 
-- 🌱 I’m currently learning **Angular and ASP.NET Web API**
-
-- 💬 Ask me about **React, PERN, MERN**
-
 - 📫 How to reach me **muhammedalierdel@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
