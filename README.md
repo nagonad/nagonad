@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">A passionate web developer</h3>
 
 <div align="center">
  <b style = {font-weight: 600}>Visitors Count</b>
